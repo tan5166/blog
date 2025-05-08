@@ -39,28 +39,28 @@ layoutBackgroundHeaderSpace: false
               Markdown 編輯器
             </td>
             <td>一個使用 Milkdown 製作的線上 Markdown 編輯器，用來撰寫我的部落格。</td>
-            <td><a href="../projects/markdown-editor">查看</a></td>
+            <td><a href="../../projects/markdown-editor">查看</a></td>
         </tr>
          <tr>
             <td>
               圍棋資訊網站
             </td>
             <td>一個介紹圍棋的簡易網站，作為練習 HTML 和 CSS 的小專案。</td>
-            <td><a href="../projects/go-website">查看</a></td>
+            <td><a href="../../projects/go-website">查看</a></td>
         </tr>
         <tr>
             <td>
               日本旅遊推薦網站
             </td>
             <td>一個推薦日本旅遊景點的網站，主要用於練習網頁開發技能。</td>
-            <td><a href="../projects/japan-travel-website">查看</a></td>
+            <td><a href="../../projects/japan-travel-website">查看</a></td>
         </tr>
         <tr>
             <td>
               個人作品集網站
             </td>
             <td>一個以 CSS 為主的練習專案，展示個人作品集。</td>
-            <td><a href="../projects/personal-website">查看</a></td>
+            <td><a href="../../projects/personal-website">查看</a></td>
         </tr>
     </tbody>
 </table>
@@ -102,7 +102,7 @@ layoutBackgroundHeaderSpace: false
               非連續係數下反應-擴散方程解結構分析
             </td>
             <td>一個數學分析專案，探討在非連續係數下反應-擴散方程的解結構行為。</td>
-            <td><a href="../projects/special-project">查看</a></td>
+            <td><a href="../../projects/special-project">查看</a></td>
         </tr>
     </tbody>
 </table>
