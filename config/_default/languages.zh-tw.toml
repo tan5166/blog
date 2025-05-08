@@ -1,0 +1,28 @@
+languageCode = "zh-tw"
+languageName = "繁體中文"
+weight = 2
+title = "tan5166"
+contentDir = "content/zh-tw"
+
+[params]
+  displayName = "繁體中文"
+  isoCode = "zh-tw"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo.png"
+  secondaryLogo = "img/logo-light.png"
+  description = "tan5166 | 泓賓"
+
+# [params.fonts]
+#   body = "Noto Sans TC, 微軟正黑體, sans-serif"
+#   heading = "Noto Serif TC, 思源宋體, serif"
+#   monospace = "JetBrains Mono, Fira Code, monospace"
+
+[params.author]
+  name = "泓賓"
+  image = "img/hongbin.png"
+  links = [
+    { email = "mailto:hongbin.1205.5166@gmail.com" },
+    #{ linkedin = "https://linkedin.com/" },
+    { github = "https://github.com/tan5166" },
+  ]
