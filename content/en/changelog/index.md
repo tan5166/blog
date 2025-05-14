@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: false
 layoutBackgroundHeaderSpace: false
+showComments: false
 ---
 
 - 2025/05/08 - Switched to Hugo and adopted the Blowfish theme.

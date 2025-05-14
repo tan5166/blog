@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: false
 layoutBackgroundHeaderSpace: false
+showComments: false
 ---
 
 - 2025/05/08 — 網站改用 Hugo 架站，並採用 Blowfish 主題。

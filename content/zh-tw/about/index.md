@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
+showComments: false
 ---
 
 你好，我是泓賓。

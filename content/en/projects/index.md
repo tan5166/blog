@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
+showComments: false
 ---
 
 These are some of the projects I’ve worked on. Some of them are relatively small in scope and were mainly built to apply what I’ve learned. For me, trying to build something with the knowledge I’ve gained is both meaningful and fun.

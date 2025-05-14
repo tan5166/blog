@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
+showComments: false
 ---
 
 這些是我做過的一些項目，有些的工程量不是很大，主要是為了應用我所學的知識。對我來說，嘗試運用所學知識寫一些東西是很有意思的。
