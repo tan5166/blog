@@ -42,6 +42,13 @@ These are some of the projects I’ve worked on. Some of them are relatively sma
             <td>A simple online Markdown editor built with Milkdown, made for writing my blog.</td>
             <td><a href="../projects/markdown-editor">Click Here</a></td>
         </tr>
+        <tr>
+            <td>
+              Snake Game
+            </td>
+            <td>A Snake game using both html, css, JavaScript.</td>
+            <td><a href="../projects/snake">Click Here</a></td>
+        </tr>
          <tr>
             <td>
               Go Information Site

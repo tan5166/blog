@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4c26d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body #ScoreBox {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-family: "Press Start 2P", monospace;
+  font-size: 16px;
+  width: -moz-fit-content;
+  width: fit-content;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 10;
+}
+body #ScoreBox #ScoreBox p {
+  margin: 4px 0;
+}
+body #ScoreBox #ScoreBox span {
+  font-weight: bold;
+  color: #ffeb3b;
+}
+body canvas {
+  margin-top: 6rem;
+}
+body .btns {
+  display: flex;
+  gap: 1rem;
+}
+body .btns button {
+  margin-top: 1rem;
+  padding: 12px 24px;
+  font-size: 1.1rem;
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.1s ease, background-color 0.2s ease;
+}
+body .btns button:hover {
+  background-color: #e64a19;
+  transform: scale(1.05);
+}
+body .btns button:active {
+  transform: scale(0.98);
+}/*# sourceMappingURL=style.css.map */

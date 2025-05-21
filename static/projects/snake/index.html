@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake</title>
+    <link rel="stylesheet" href="./style/style.css" />
+  </head>
+  <body>
+    <div id="ScoreBox">
+      <p>Score: <span id="Score">0</span></p>
+      <p>Highest Score: <span id="HighestScore">0</span></p>
+    </div>
+    <canvas
+      id="gameCanvas"
+      width="500"
+      height="500"
+      style="background-color: rgba(172, 255, 47, 0.75)"
+    ></canvas>
+    <div class="btns">
+      <button type="button" id="Start" onclick="window.location.reload()">
+        New game
+      </button>
+      <button type="button" id="Start" onclick="history.back()">
+        Back previous page
+      </button>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

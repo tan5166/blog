@@ -31,7 +31,7 @@ showComments: false
         <tr>
             <th>標題</th>
             <th>描述</th>
-            <th>連結</th>
+            <th style="width: 80px; white-space: nowrap;">連結</th>
         </tr>
     </thead>
     <tbody>
@@ -41,6 +41,13 @@ showComments: false
             </td>
             <td>一個使用 Milkdown 製作的線上 Markdown 編輯器，用來撰寫我的部落格。</td>
             <td><a href="../../projects/markdown-editor">查看</a></td>
+        </tr>
+        <tr>
+            <td>
+              貪吃蛇
+            </td>
+            <td>貪吃蛇遊戲，做以練習 HTML, CSS, JavaScript.</td>
+            <td><a href="../../projects/snake">查看</a></td>
         </tr>
          <tr>
             <td>
@@ -73,7 +80,7 @@ showComments: false
         <tr>
             <th>標題</th>
             <th>描述</th>
-            <th>連結</th>
+            <th style="width: 80px; white-space: nowrap;">連結</th>
         </tr>
     </thead>
     <tbody>
@@ -94,7 +101,7 @@ showComments: false
         <tr>
             <th>標題</th>
             <th>描述</th>
-            <th>連結</th>
+            <th style="width: 80px; white-space: nowrap;">連結</th>
         </tr>
     </thead>
     <tbody>

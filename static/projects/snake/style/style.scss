@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4c26d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  #ScoreBox {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-family: "Press Start 2P", monospace;
+    font-size: 16px;
+    width: fit-content;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+    #ScoreBox p {
+      margin: 4px 0;
+    }
+    #ScoreBox span {
+      font-weight: bold;
+      color: #ffeb3b;
+    }
+  }
+  canvas {
+    margin-top: 6rem;
+  }
+  .btns {
+    display: flex;
+    gap: 1rem;
+    button {
+      margin-top: 1rem;
+      padding: 12px 24px;
+      font-size: 1.1rem;
+      background-color: #ff5722;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      transition: transform 0.1s ease, background-color 0.2s ease;
+      &:hover {
+        background-color: #e64a19;
+        transform: scale(1.05);
+      }
+      &:active {
+        transform: scale(0.98);
+      }
+    }
+  }
+}
